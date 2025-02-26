@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://happyglass.net
+
+# Sitemaps
+Sitemap: https://happyglass.net/sitemap.xml
