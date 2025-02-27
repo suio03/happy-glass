@@ -20,7 +20,7 @@ export default function RootLayout({
 }) {
     return (
         <html lang="en" suppressHydrationWarning>
-            {/* <Analytics /> */}
+            <Analytics />
             {/* <Ads /> */}
             <body className={`${inter.className} bg-background`}>
                 <ThemeProvider attribute="class" defaultTheme="dark" enableSystem forcedTheme="dark">
